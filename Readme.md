@@ -1,0 +1,1 @@
+This is an app that will track how you spend your time throughout the day
